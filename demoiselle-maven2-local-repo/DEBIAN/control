@@ -1,0 +1,10 @@
+Package: demoiselle-maven2-local-repo
+Version: 2.2.1-8
+Section: universe/devel
+Priority: optional
+Architecture: all
+Depends: demoiselle-maven2 (>=2.2)
+Installed-Size: 371036
+Maintainer: Demoiselle Framework <demoiselle-infra@lists.sourceforge.net>
+Description: Initial Maven local repository and settings for sharing it among all system users
+Homepage: http://demoiselle.sourceforge.net/infra/demoiselle-maven2-local-repo/

@@ -1,0 +1,11 @@
+Package: demoiselle-jboss-4.2
+Version: 4.2.3-9
+Section: universe/java
+Priority: optional
+Architecture: all
+Depends: sun-java6-jdk | sun-java5-jdk | openjdk-6-jdk
+Installed-Size: 115688
+Maintainer: Demoiselle Framework <demoiselle-infra@lists.sourceforge.net>
+Description: Java EE Application Server
+ JBoss Application Server is an open-source Java EE-based application server.
+Homepage: http://www.jboss.org/

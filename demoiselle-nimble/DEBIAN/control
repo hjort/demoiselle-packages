@@ -1,0 +1,10 @@
+Package: demoiselle-nimble
+Version: 1.0-11
+Section: universe/devel
+Priority: optional
+Architecture: all
+Depends: demoiselle-maven2 (>= 2.2)
+Installed-Size: 10560
+Maintainer: Demoiselle Framework <demoiselle-infra@lists.sourceforge.net>
+Description: Automated processing tool for Demoiselle Framework
+Homepage: http://demoiselle.sourceforge.net/tools/nimble/

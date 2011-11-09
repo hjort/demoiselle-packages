@@ -1,0 +1,10 @@
+#!/bin/bash
+
+MAVEN_HOME="/opt/demoiselle/tool/maven2/"
+
+for a in mvn mvnDebug
+do
+	ln -s $MAVEN_HOME/bin/$a /usr/local/bin
+done
+
+exit 0

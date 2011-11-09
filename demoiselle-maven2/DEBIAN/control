@@ -1,0 +1,10 @@
+Package: demoiselle-maven2
+Version: 2.2.1-7
+Section: universe/devel
+Priority: optional
+Architecture: all
+Depends: sun-java6-jdk | sun-java5-jdk | openjdk-6-jdk
+Installed-Size: 3244
+Maintainer: Demoiselle Framework <demoiselle-infra@lists.sourceforge.net>
+Description: Java software project management and comprehension tool
+Homepage: http://maven.apache.org/

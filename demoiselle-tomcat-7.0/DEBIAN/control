@@ -1,0 +1,12 @@
+Package: demoiselle-tomcat-7.0
+Version: 7.0.5-1
+Section: universe/java
+Priority: optional
+Architecture: all
+Depends: openjdk-6-jdk | sun-java6-jdk
+Installed-Size: 11884
+Maintainer: Demoiselle Framework <demoiselle-infra@lists.sourceforge.net>
+Description: Apache Tomcat 7.0 Java Servlet and JSP Engine
+ Apache Tomcat is the reference implementation for the Java Servlet
+ and JavaServer Pages technologies.
+Homepage: http://tomcat.apache.org/

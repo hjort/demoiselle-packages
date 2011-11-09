@@ -1,0 +1,12 @@
+Package: demoiselle-mongobrowser-0.1
+Version: 0.1.0-1
+Section: universe/devel
+Priority: standard
+Architecture: all
+Depends: sun-java6-jdk | sun-java5-jdk | openjdk-6-jdk
+Installed-Size: 448
+Maintainer: Demoiselle Framework <demoiselle-infra@lists.sourceforge.net>
+Description: A graphical application for viewing, editing and administering MongoDB databases
+ MongoBrowser is a simple web start application that allows you to browse, update and administer a Mongo database.
+ This is a work in progress, and is early on. Any bugs, features or ideas are very much welcome.
+Homepage: http://sourceforge.net/projects/mongobrowser/

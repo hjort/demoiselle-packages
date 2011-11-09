@@ -1,0 +1,12 @@
+Package: demoiselle-jboss-6.0
+Version: 6.0.0-1
+Section: universe/java
+Priority: optional
+Architecture: all
+Depends: openjdk-6-jdk | sun-java6-jdk
+Installed-Size: 209608
+Maintainer: Demoiselle Framework <demoiselle-infra@lists.sourceforge.net>
+Description: JBoss Application Server 6.0
+ JBoss Application Server is an open-source Java EE-based application server.
+ A Java EE certified platform for developing and deploying enterprise Java applications, Web applications, and Portals, JBoss Application Server provides the full range of Java EE 6 features as well as extended enterprise services including clustering, caching, and persistence.
+Homepage: http://www.jboss.org/

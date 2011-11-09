@@ -1,0 +1,9 @@
+Package: demoiselle-workspace
+Version: 1.2-2
+Section: universe/devel
+Priority: optional
+Architecture: all
+Installed-Size: 70712
+Maintainer: Demoiselle Framework <demoiselle-infra@lists.sourceforge.net>
+Description: Default workspace templates for Demoiselle Eclipse
+Homepage: http://demoiselle.sourceforge.net/infra/demoiselle-workspace/

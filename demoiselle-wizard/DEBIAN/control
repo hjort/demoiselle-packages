@@ -1,0 +1,12 @@
+Package: demoiselle-wizard
+Version: 1.1-1
+Section: universe/devel
+Priority: optional
+Architecture: all
+Depends: demoiselle-eclipse-3.5 (>= 3.5.2) | demoiselle-eclipse-3.6 (>= 3.6.0)
+Installed-Size: 22728
+Maintainer: Demoiselle Framework <demoiselle-infra@lists.sourceforge.net>
+Description: Demoiselle Wizard Eclipse plugin (release 1.1.3)
+ Demoiselle Wizard is a plugin for Eclipse which aims at providing tools to
+ leverage development steps on applications using Demoiselle Framework or its components.
+Homepage: http://demoiselle.sourceforge.net/wizard/

@@ -1,0 +1,14 @@
+Package: demoiselle-ireport-3.0
+Version: 3.0.0-3
+Section: universe/devel
+Priority: standard
+Architecture: all
+Depends: sun-java6-jdk | sun-java5-jdk | openjdk-6-jdk
+Installed-Size: 55020
+Maintainer: Demoiselle Framework <demoiselle-infra@lists.sourceforge.net>
+Description: iReport is the free, open source report designer for JasperReports
+ iReport is the free, open source report designer for JasperReports.
+ Create very sophisticated layouts containing charts, images, subreports, crosstabs and much more.
+ Access your data through JDBC, TableModels, JavaBeans, XML, Hibernate, CSV, and custom sources.
+ Then publish your reports as PDF, RTF, XML, XLS, CSV, HTML, XHTML, text, DOCX, or OpenOffice.
+Homepage: http://jasperforge.org/projects/ireport/

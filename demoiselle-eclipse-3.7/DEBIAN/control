@@ -1,0 +1,15 @@
+Package: demoiselle-eclipse-3.7
+Version: 3.7.0-3
+Section: universe/devel
+Priority: standard
+Architecture: i386
+Depends: openjdk-6-jdk | sun-java6-jdk
+Installed-Size: 447220
+Maintainer: Demoiselle Framework <demoiselle-infra@lists.sourceforge.net>
+Description: Eclipse IDE for Java Developers with plugins and features
+ Eclipse is a multi-language software development environment comprising an
+ integrated development environment (IDE) and an extensible plug-in system.
+ It is written primarily in Java and can be used to develop applications in
+ Java and, by means of the various plug-ins, in other languages as well,
+ including C, C++, COBOL, Python, Perl, PHP, and others.
+Homepage: http://www.eclipse.org/

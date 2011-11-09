@@ -1,0 +1,11 @@
+Package: demoiselle-squirrel-3.1
+Version: 3.1.2-3
+Section: universe/devel
+Priority: standard
+Architecture: all
+Depends: sun-java6-jdk | sun-java5-jdk | openjdk-6-jdk
+Installed-Size: 37848
+Maintainer: Demoiselle Framework <demoiselle-infra@lists.sourceforge.net>
+Description: Universal SQL Client written in Java and based on JDBC drivers
+ SQuirreL SQL Client is a graphical Java program that will allow you to view the structure of a JDBC compliant database, browse the data in tables, issue SQL commands etc.
+Homepage: http://squirrel-sql.sourceforge.net/

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+ln -s /opt/demoiselle/tool/workspace/bin/demoiselle-workspace /usr/local/bin
+
+exit 0

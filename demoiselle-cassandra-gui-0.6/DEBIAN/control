@@ -1,0 +1,11 @@
+Package: demoiselle-cassandra-gui-0.6
+Version: 0.6.1-1
+Section: universe/devel
+Priority: standard
+Architecture: all
+Depends: sun-java6-jdk | sun-java5-jdk | openjdk-6-jdk
+Installed-Size: 4236
+Maintainer: Demoiselle Framework <demoiselle-infra@lists.sourceforge.net>
+Description: A Java client for handling Apache Cassandra v0.6 databases
+ A Java client for handling Apache Cassandra v0.6 databases.
+Homepage: http://code.google.com/p/cassandra-gui/

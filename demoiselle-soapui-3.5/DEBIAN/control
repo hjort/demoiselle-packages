@@ -1,0 +1,11 @@
+Package: demoiselle-soapui-3.5
+Version: 3.5.1-4
+Section: universe/devel
+Priority: standard
+Architecture: all
+Depends: sun-java6-jdk | sun-java5-jdk | openjdk-6-jdk
+Installed-Size: 71852
+Maintainer: Demoiselle Framework <demoiselle-infra@lists.sourceforge.net>
+Description: Desktop application for inspecting Web Services
+ SoapUI is the leading desktop application for inspecting, invoking, monitoring, simulating/mocking and functional/load/compliance/surveillance testing of REST/WADL and SOAP/WSDL-based Web Services over HTTP.
+Homepage: http://www.soapui.org/
